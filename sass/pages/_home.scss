@@ -58,6 +58,7 @@
     background-size: 100%; // 100% is exactly like cover
     border-radius: 3px;
     box-shadow:0 1.5rem 4rem rgba($color-black, .2);
+    
 
 
     @include respond(tab-land){
